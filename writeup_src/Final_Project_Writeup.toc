@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}A note on matrix representation, operations, and paraphernalia}{2}{section.2}
+\contentsline {section}{\numberline {3}Associativity of matrix multiplication}{3}{section.3}
+\contentsline {section}{\numberline {4}Neutrality of the identity element}{3}{section.4}
+\contentsline {section}{\numberline {5}Taking the n-th power of the M1 matrix}{3}{section.5}
+\contentsline {section}{\numberline {6} Exponentiation is commutative}{4}{section.6}
+\contentsline {section}{\numberline {7}The equivalence of the two definitions of exponentiation}{4}{section.7}
+\contentsline {section}{\numberline {8}Taking the n-th power of the M2 matrix}{4}{section.8}
+\contentsline {section}{\numberline {9}Transposition is involutive}{5}{section.9}
+\contentsline {section}{\numberline {10}Transpose of the product of matrices}{5}{section.10}
+\contentsline {section}{\numberline {11}Transposition and exponentiation commute}{5}{section.11}
+\contentsline {section}{\numberline {12}Proving the n-th power of M2 property without induction}{6}{section.12}
+\contentsline {section}{\numberline {13} The special property of F}{6}{section.13}
+\contentsline {section}{\numberline {14}Conclusion}{7}{section.14}

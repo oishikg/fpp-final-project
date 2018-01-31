@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Evaluate and Interpret}{}% 2
+\BOOKMARK [1][-]{section.3}{The virtual machine}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Decode and execute a single instruction}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Fetch the list of instructions and execute}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{run}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{An interlude : Executing two byte code lists appended}{}% 7
+\BOOKMARK [1][-]{section.5}{Auxiliary compiler and compiler}{}% 8
+\BOOKMARK [1][-]{section.6}{ The commutative diagram}{}% 9
+\BOOKMARK [1][-]{section.7}{Conclusion}{}% 10
