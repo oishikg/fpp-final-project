@@ -17,6 +17,9 @@ In keeping with the theme of the class, the final project had two parts, one mat
 
 The coq files for projects contain properties and theorems and their proofs. A detailed explanation of the theorems and properties in each coq file is provided in the write-up corresponding to the file. 
 
+## Running the coq files
+
+
 ## Author
 Oishik Ganguly
 
