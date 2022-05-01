@@ -1,5 +1,4 @@
 # Automated Proof Verification with Coq 
-## Verifying properties of 2-by-2 matrices and a simple OCaml based lanuage
 
 ## About
 This repository contains 2 coq files, and 2 corresponding write-ups. The coq files contain proofs of properties of 2-by-2 matrices, and properties of a simple Ocaml based language (including properties of its compilers, interpreters, and virtual machine). This repository is the result of Yale-NUS College's Function Programminga and Proving course (YSC3236) run in the fall of AY2017-18 by Professor Olivier Danvy. 
